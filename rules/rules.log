@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.1)  2 NOV 2016 00:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.1)  2 NOV 2016 22:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1210,7 +1210,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.115 
+l.116 
        [1] [2 <./png/doe_4p_setup.png> <./png/doe_3p_setup.png> <./png/doe_2p_s
 etup.png>]
 <./png/doe_example_cube_collection.png, id=149, 213.79875pt x 184.69pt>
@@ -1218,10 +1218,10 @@ File: ./png/doe_example_cube_collection.png Graphic file (type png)
 
 <use ./png/doe_example_cube_collection.png>
 Package pdftex.def Info: ./png/doe_example_cube_collection.png used on input li
-ne 156.
+ne 157.
 (pdftex.def)             Requested size: 128.28023pt x 110.81483pt.
 
-Overfull \hbox (44.63078pt too wide) in paragraph at lines 156--157
+Overfull \hbox (44.63078pt too wide) in paragraph at lines 157--158
 [][] 
  []
 
@@ -1230,11 +1230,11 @@ Overfull \hbox (44.63078pt too wide) in paragraph at lines 156--157
 File: ./png/doe_example_new_town.png Graphic file (type png)
 
 <use ./png/doe_example_new_town.png>
-Package pdftex.def Info: ./png/doe_example_new_town.png used on input line 233.
+Package pdftex.def Info: ./png/doe_example_new_town.png used on input line 235.
 
 (pdftex.def)             Requested size: 132.496pt x 111.4171pt.
 
-Overfull \hbox (48.84656pt too wide) in paragraph at lines 233--234
+Overfull \hbox (48.84656pt too wide) in paragraph at lines 235--236
 [][] 
  []
 
@@ -1242,10 +1242,10 @@ Overfull \hbox (48.84656pt too wide) in paragraph at lines 233--234
 File: ./png/doe_example_build.png Graphic file (type png)
 
 <use ./png/doe_example_build.png>
-Package pdftex.def Info: ./png/doe_example_build.png used on input line 270.
+Package pdftex.def Info: ./png/doe_example_build.png used on input line 281.
 (pdftex.def)             Requested size: 120.45091pt x 56.00967pt.
 
-Overfull \hbox (36.80147pt too wide) in paragraph at lines 270--271
+Overfull \hbox (36.80147pt too wide) in paragraph at lines 281--282
 [][] 
  []
 
@@ -1253,10 +1253,10 @@ Overfull \hbox (36.80147pt too wide) in paragraph at lines 270--271
 File: ./png/doe_example_grow.png Graphic file (type png)
 
 <use ./png/doe_example_grow.png>
-Package pdftex.def Info: ./png/doe_example_grow.png used on input line 287.
+Package pdftex.def Info: ./png/doe_example_grow.png used on input line 298.
 (pdftex.def)             Requested size: 132.496pt x 111.4171pt.
 
-Overfull \hbox (48.84656pt too wide) in paragraph at lines 287--288
+Overfull \hbox (48.84656pt too wide) in paragraph at lines 298--299
 [][] 
  []
 
@@ -1266,33 +1266,21 @@ e_example_grow.png>] [7]
 File: ./png/doe_central_board.png Graphic file (type png)
 
 <use ./png/doe_central_board.png>
-Package pdftex.def Info: ./png/doe_central_board.png used on input line 376.
+Package pdftex.def Info: ./png/doe_central_board.png used on input line 387.
 (pdftex.def)             Requested size: 358.3415pt x 507.09842pt.
  [8 <./png/doe_central_board.png>]
 <./png/doe_player_board.png, id=190, 597.23125pt x 845.1575pt>
 File: ./png/doe_player_board.png Graphic file (type png)
 
 <use ./png/doe_player_board.png>
-Package pdftex.def Info: ./png/doe_player_board.png used on input line 386.
+Package pdftex.def Info: ./png/doe_player_board.png used on input line 397.
 (pdftex.def)             Requested size: 358.3415pt x 507.09842pt.
  [9 <./png/doe_player_board.png>]
 <./png/doe_tech_agriculture.png, id=197, 93.34875pt x 93.34875pt>
 File: ./png/doe_tech_agriculture.png Graphic file (type png)
 
 <use ./png/doe_tech_agriculture.png>
-Package pdftex.def Info: ./png/doe_tech_agriculture.png used on input line 399.
-
-(pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
-
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 399--400
-[][] 
- []
-
-<./png/doe_tech_cartography.png, id=198, 93.34875pt x 93.34875pt>
-File: ./png/doe_tech_cartography.png Graphic file (type png)
-
-<use ./png/doe_tech_cartography.png>
-Package pdftex.def Info: ./png/doe_tech_cartography.png used on input line 410.
+Package pdftex.def Info: ./png/doe_tech_agriculture.png used on input line 410.
 
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
@@ -1300,11 +1288,11 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 410--411
 [][] 
  []
 
-<./png/doe_tech_coal_mining.png, id=199, 93.34875pt x 93.34875pt>
-File: ./png/doe_tech_coal_mining.png Graphic file (type png)
+<./png/doe_tech_cartography.png, id=198, 93.34875pt x 93.34875pt>
+File: ./png/doe_tech_cartography.png Graphic file (type png)
 
-<use ./png/doe_tech_coal_mining.png>
-Package pdftex.def Info: ./png/doe_tech_coal_mining.png used on input line 421.
+<use ./png/doe_tech_cartography.png>
+Package pdftex.def Info: ./png/doe_tech_cartography.png used on input line 421.
 
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
@@ -1312,15 +1300,27 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 421--422
 [][] 
  []
 
+<./png/doe_tech_coal_mining.png, id=199, 93.34875pt x 93.34875pt>
+File: ./png/doe_tech_coal_mining.png Graphic file (type png)
+
+<use ./png/doe_tech_coal_mining.png>
+Package pdftex.def Info: ./png/doe_tech_coal_mining.png used on input line 432.
+
+(pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
+
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 432--433
+[][] 
+ []
+
 <./png/doe_tech_copper_mining.png, id=200, 93.34875pt x 93.34875pt>
 File: ./png/doe_tech_copper_mining.png Graphic file (type png)
 
 <use ./png/doe_tech_copper_mining.png>
-Package pdftex.def Info: ./png/doe_tech_copper_mining.png used on input line 43
-2.
+Package pdftex.def Info: ./png/doe_tech_copper_mining.png used on input line 44
+3.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 432--433
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 443--444
 [][] 
  []
 
@@ -1328,10 +1328,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 432--433
 File: ./png/doe_tech_fishing.png Graphic file (type png)
 
 <use ./png/doe_tech_fishing.png>
-Package pdftex.def Info: ./png/doe_tech_fishing.png used on input line 443.
+Package pdftex.def Info: ./png/doe_tech_fishing.png used on input line 454.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 443--444
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 454--455
 [][] 
  []
 
@@ -1339,11 +1339,11 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 443--444
 File: ./png/doe_tech_iron_mining.png Graphic file (type png)
 
 <use ./png/doe_tech_iron_mining.png>
-Package pdftex.def Info: ./png/doe_tech_iron_mining.png used on input line 454.
+Package pdftex.def Info: ./png/doe_tech_iron_mining.png used on input line 465.
 
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 454--455
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 465--466
 [][] 
  []
 
@@ -1351,10 +1351,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 454--455
 File: ./png/doe_tech_irrigation.png Graphic file (type png)
 
 <use ./png/doe_tech_irrigation.png>
-Package pdftex.def Info: ./png/doe_tech_irrigation.png used on input line 465.
+Package pdftex.def Info: ./png/doe_tech_irrigation.png used on input line 476.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 465--466
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 476--477
 [][] 
  []
 
@@ -1362,11 +1362,11 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 465--466
 File: ./png/doe_tech_silver_mining.png Graphic file (type png)
 
 <use ./png/doe_tech_silver_mining.png>
-Package pdftex.def Info: ./png/doe_tech_silver_mining.png used on input line 47
-6.
+Package pdftex.def Info: ./png/doe_tech_silver_mining.png used on input line 48
+7.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 476--477
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 487--488
 [][] 
  []
 
@@ -1374,10 +1374,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 476--477
 File: ./png/doe_tech_wheel.png Graphic file (type png)
 
 <use ./png/doe_tech_wheel.png>
-Package pdftex.def Info: ./png/doe_tech_wheel.png used on input line 487.
+Package pdftex.def Info: ./png/doe_tech_wheel.png used on input line 498.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 487--488
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 498--499
 [][] 
  []
 
@@ -1388,10 +1388,10 @@ ing.png> <./png/doe_tech_iron_mining.png>]
 File: ./png/doe_tech_currency.png Graphic file (type png)
 
 <use ./png/doe_tech_currency.png>
-Package pdftex.def Info: ./png/doe_tech_currency.png used on input line 502.
+Package pdftex.def Info: ./png/doe_tech_currency.png used on input line 513.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 502--503
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 513--514
 [][] 
  []
 
@@ -1399,10 +1399,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 502--503
 File: ./png/doe_tech_masonry.png Graphic file (type png)
 
 <use ./png/doe_tech_masonry.png>
-Package pdftex.def Info: ./png/doe_tech_masonry.png used on input line 513.
+Package pdftex.def Info: ./png/doe_tech_masonry.png used on input line 524.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 513--514
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 524--525
 [][] 
  []
 
@@ -1410,11 +1410,11 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 513--514
 File: ./png/doe_tech_money_trade.png Graphic file (type png)
 
 <use ./png/doe_tech_money_trade.png>
-Package pdftex.def Info: ./png/doe_tech_money_trade.png used on input line 524.
+Package pdftex.def Info: ./png/doe_tech_money_trade.png used on input line 535.
 
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 524--525
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 535--536
 [][] 
  []
 
@@ -1422,10 +1422,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 524--525
 File: ./png/doe_tech_pottery.png Graphic file (type png)
 
 <use ./png/doe_tech_pottery.png>
-Package pdftex.def Info: ./png/doe_tech_pottery.png used on input line 535.
+Package pdftex.def Info: ./png/doe_tech_pottery.png used on input line 546.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 535--536
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 546--547
 [][] 
  []
 
@@ -1434,10 +1434,10 @@ File: ./png/doe_tech_production_trade.png Graphic file (type png)
 
 <use ./png/doe_tech_production_trade.png>
 Package pdftex.def Info: ./png/doe_tech_production_trade.png used on input line
- 546.
+ 557.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 546--547
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 557--558
 [][] 
  []
 
@@ -1445,11 +1445,11 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 546--547
 File: ./png/doe_tech_science_trade.png Graphic file (type png)
 
 <use ./png/doe_tech_science_trade.png>
-Package pdftex.def Info: ./png/doe_tech_science_trade.png used on input line 55
-7.
+Package pdftex.def Info: ./png/doe_tech_science_trade.png used on input line 56
+8.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 557--558
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 568--569
 [][] 
  []
 
@@ -1457,10 +1457,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 557--558
 File: ./png/doe_tech_writing.png Graphic file (type png)
 
 <use ./png/doe_tech_writing.png>
-Package pdftex.def Info: ./png/doe_tech_writing.png used on input line 568.
+Package pdftex.def Info: ./png/doe_tech_writing.png used on input line 579.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 568--569
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 579--580
 [][] 
  []
 
@@ -1471,11 +1471,11 @@ oe_tech_wheel.png> <./png/doe_tech_currency.png> <./png/doe_tech_masonry.png> <
 File: ./png/doe_tech_code_of_laws.png Graphic file (type png)
 
 <use ./png/doe_tech_code_of_laws.png>
-Package pdftex.def Info: ./png/doe_tech_code_of_laws.png used on input line 583
+Package pdftex.def Info: ./png/doe_tech_code_of_laws.png used on input line 594
 .
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 583--584
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 594--595
 [][] 
  []
 
@@ -1483,10 +1483,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 583--584
 File: ./png/doe_tech_monarchy.png Graphic file (type png)
 
 <use ./png/doe_tech_monarchy.png>
-Package pdftex.def Info: ./png/doe_tech_monarchy.png used on input line 594.
+Package pdftex.def Info: ./png/doe_tech_monarchy.png used on input line 605.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 594--595
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 605--606
 [][] 
  []
 
@@ -1494,10 +1494,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 594--595
 File: ./png/doe_tech_mysticism.png Graphic file (type png)
 
 <use ./png/doe_tech_mysticism.png>
-Package pdftex.def Info: ./png/doe_tech_mysticism.png used on input line 605.
+Package pdftex.def Info: ./png/doe_tech_mysticism.png used on input line 616.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 605--606
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 616--617
 [][] 
  []
 
@@ -1505,10 +1505,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 605--606
 File: ./png/doe_tech_philosophy.png Graphic file (type png)
 
 <use ./png/doe_tech_philosophy.png>
-Package pdftex.def Info: ./png/doe_tech_philosophy.png used on input line 616.
+Package pdftex.def Info: ./png/doe_tech_philosophy.png used on input line 627.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 616--617
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 627--628
 [][] 
  []
 
@@ -1516,10 +1516,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 616--617
 File: ./png/doe_tech_polytheism.png Graphic file (type png)
 
 <use ./png/doe_tech_polytheism.png>
-Package pdftex.def Info: ./png/doe_tech_polytheism.png used on input line 627.
+Package pdftex.def Info: ./png/doe_tech_polytheism.png used on input line 638.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 627--628
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 638--639
 [][] 
  []
 
@@ -1527,10 +1527,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 627--628
 File: ./png/doe_tech_theology.png Graphic file (type png)
 
 <use ./png/doe_tech_theology.png>
-Package pdftex.def Info: ./png/doe_tech_theology.png used on input line 638.
+Package pdftex.def Info: ./png/doe_tech_theology.png used on input line 649.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 638--639
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 649--650
 [][] 
  []
 
@@ -1542,10 +1542,10 @@ File: ./png/doe_tech_horseback_riding.png Graphic file (type png)
 
 <use ./png/doe_tech_horseback_riding.png>
 Package pdftex.def Info: ./png/doe_tech_horseback_riding.png used on input line
- 653.
+ 664.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 653--654
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 664--665
 [][] 
  []
 
@@ -1553,11 +1553,11 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 653--654
 File: ./png/doe_tech_iron_working.png Graphic file (type png)
 
 <use ./png/doe_tech_iron_working.png>
-Package pdftex.def Info: ./png/doe_tech_iron_working.png used on input line 664
+Package pdftex.def Info: ./png/doe_tech_iron_working.png used on input line 675
 .
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 664--665
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 675--676
 [][] 
  []
 
@@ -1566,10 +1566,10 @@ File: ./png/doe_tech_military_tactics.png Graphic file (type png)
 
 <use ./png/doe_tech_military_tactics.png>
 Package pdftex.def Info: ./png/doe_tech_military_tactics.png used on input line
- 675.
+ 686.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 675--676
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 686--687
 [][] 
  []
 
@@ -1577,10 +1577,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 675--676
 File: ./png/doe_tech_militia.png Graphic file (type png)
 
 <use ./png/doe_tech_militia.png>
-Package pdftex.def Info: ./png/doe_tech_militia.png used on input line 686.
+Package pdftex.def Info: ./png/doe_tech_militia.png used on input line 697.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 686--687
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 697--698
 [][] 
  []
 
@@ -1588,10 +1588,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 686--687
 File: ./png/doe_tech_sailing.png Graphic file (type png)
 
 <use ./png/doe_tech_sailing.png>
-Package pdftex.def Info: ./png/doe_tech_sailing.png used on input line 697.
+Package pdftex.def Info: ./png/doe_tech_sailing.png used on input line 708.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 697--698
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 708--709
 [][] 
  []
 
@@ -1602,11 +1602,11 @@ ing.png> <./png/doe_tech_iron_working.png>]
 File: ./png/doe_building_barracks.png Graphic file (type png)
 
 <use ./png/doe_building_barracks.png>
-Package pdftex.def Info: ./png/doe_building_barracks.png used on input line 715
+Package pdftex.def Info: ./png/doe_building_barracks.png used on input line 726
 .
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 715--716
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 726--727
 [][] 
  []
 
@@ -1614,10 +1614,10 @@ Overfull \hbox (3.84239pt too wide) in paragraph at lines 715--716
 File: ./png/doe_building_court.png Graphic file (type png)
 
 <use ./png/doe_building_court.png>
-Package pdftex.def Info: ./png/doe_building_court.png used on input line 726.
+Package pdftex.def Info: ./png/doe_building_court.png used on input line 737.
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 726--727
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 737--738
 [][] 
  []
 
@@ -1625,19 +1625,7 @@ Overfull \hbox (3.84239pt too wide) in paragraph at lines 726--727
 File: ./png/doe_building_granary.png Graphic file (type png)
 
 <use ./png/doe_building_granary.png>
-Package pdftex.def Info: ./png/doe_building_granary.png used on input line 737.
-
-(pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
-
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 737--738
-[][] 
- []
-
-<./png/doe_building_library.png, id=292, 65.24374pt x 65.24374pt>
-File: ./png/doe_building_library.png Graphic file (type png)
-
-<use ./png/doe_building_library.png>
-Package pdftex.def Info: ./png/doe_building_library.png used on input line 748.
+Package pdftex.def Info: ./png/doe_building_granary.png used on input line 748.
 
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
@@ -1645,14 +1633,26 @@ Overfull \hbox (3.84239pt too wide) in paragraph at lines 748--749
 [][] 
  []
 
+<./png/doe_building_library.png, id=292, 65.24374pt x 65.24374pt>
+File: ./png/doe_building_library.png Graphic file (type png)
+
+<use ./png/doe_building_library.png>
+Package pdftex.def Info: ./png/doe_building_library.png used on input line 759.
+
+(pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
+
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 759--760
+[][] 
+ []
+
 <./png/doe_building_market.png, id=293, 65.24374pt x 65.24374pt>
 File: ./png/doe_building_market.png Graphic file (type png)
 
 <use ./png/doe_building_market.png>
-Package pdftex.def Info: ./png/doe_building_market.png used on input line 759.
+Package pdftex.def Info: ./png/doe_building_market.png used on input line 770.
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 759--760
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 770--771
 [][] 
  []
 
@@ -1660,10 +1660,10 @@ Overfull \hbox (3.84239pt too wide) in paragraph at lines 759--760
 File: ./png/doe_building_palace.png Graphic file (type png)
 
 <use ./png/doe_building_palace.png>
-Package pdftex.def Info: ./png/doe_building_palace.png used on input line 770.
+Package pdftex.def Info: ./png/doe_building_palace.png used on input line 781.
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 770--771
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 781--782
 [][] 
  []
 
@@ -1671,10 +1671,10 @@ Overfull \hbox (3.84239pt too wide) in paragraph at lines 770--771
 File: ./png/doe_building_temple.png Graphic file (type png)
 
 <use ./png/doe_building_temple.png>
-Package pdftex.def Info: ./png/doe_building_temple.png used on input line 781.
+Package pdftex.def Info: ./png/doe_building_temple.png used on input line 792.
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 781--782
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 792--793
 [][] 
  []
 
@@ -1682,10 +1682,10 @@ Overfull \hbox (3.84239pt too wide) in paragraph at lines 781--782
 File: ./png/doe_building_walls.png Graphic file (type png)
 
 <use ./png/doe_building_walls.png>
-Package pdftex.def Info: ./png/doe_building_walls.png used on input line 792.
+Package pdftex.def Info: ./png/doe_building_walls.png used on input line 803.
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 792--793
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 803--804
 [][] 
  []
 
@@ -1693,11 +1693,11 @@ Overfull \hbox (3.84239pt too wide) in paragraph at lines 792--793
 File: ./png/doe_building_workshop.png Graphic file (type png)
 
 <use ./png/doe_building_workshop.png>
-Package pdftex.def Info: ./png/doe_building_workshop.png used on input line 803
+Package pdftex.def Info: ./png/doe_building_workshop.png used on input line 814
 .
 (pdftex.def)             Requested size: 45.6703pt x 45.6703pt.
 
-Overfull \hbox (3.84239pt too wide) in paragraph at lines 803--804
+Overfull \hbox (3.84239pt too wide) in paragraph at lines 814--815
 [][] 
  []
 
@@ -1708,10 +1708,10 @@ t.png> <./png/doe_building_granary.png> <./png/doe_building_library.png>]
 File: ./png/doe_wonder_colossus.png Graphic file (type png)
 
 <use ./png/doe_wonder_colossus.png>
-Package pdftex.def Info: ./png/doe_wonder_colossus.png used on input line 819.
+Package pdftex.def Info: ./png/doe_wonder_colossus.png used on input line 830.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 819--820
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 830--831
 [][] 
  []
 
@@ -1720,10 +1720,10 @@ File: ./png/doe_wonder_great_library.png Graphic file (type png)
 
 <use ./png/doe_wonder_great_library.png>
 Package pdftex.def Info: ./png/doe_wonder_great_library.png used on input line 
-830.
+841.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 830--831
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 841--842
 [][] 
  []
 
@@ -1732,10 +1732,10 @@ File: ./png/doe_wonder_great_lighthouse.png Graphic file (type png)
 
 <use ./png/doe_wonder_great_lighthouse.png>
 Package pdftex.def Info: ./png/doe_wonder_great_lighthouse.png used on input li
-ne 841.
+ne 852.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 841--842
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 852--853
 [][] 
  []
 
@@ -1743,11 +1743,11 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 841--842
 File: ./png/doe_wonder_great_wall.png Graphic file (type png)
 
 <use ./png/doe_wonder_great_wall.png>
-Package pdftex.def Info: ./png/doe_wonder_great_wall.png used on input line 852
+Package pdftex.def Info: ./png/doe_wonder_great_wall.png used on input line 863
 .
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 852--853
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 863--864
 [][] 
  []
 
@@ -1756,10 +1756,10 @@ File: ./png/doe_wonder_hanging_gardens.png Graphic file (type png)
 
 <use ./png/doe_wonder_hanging_gardens.png>
 Package pdftex.def Info: ./png/doe_wonder_hanging_gardens.png used on input lin
-e 863.
+e 874.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 863--864
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 874--875
 [][] 
  []
 
@@ -1767,10 +1767,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 863--864
 File: ./png/doe_wonder_oracle.png Graphic file (type png)
 
 <use ./png/doe_wonder_oracle.png>
-Package pdftex.def Info: ./png/doe_wonder_oracle.png used on input line 874.
+Package pdftex.def Info: ./png/doe_wonder_oracle.png used on input line 885.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 874--875
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 885--886
 [][] 
  []
 
@@ -1778,10 +1778,10 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 874--875
 File: ./png/doe_wonder_pyramids.png Graphic file (type png)
 
 <use ./png/doe_wonder_pyramids.png>
-Package pdftex.def Info: ./png/doe_wonder_pyramids.png used on input line 885.
+Package pdftex.def Info: ./png/doe_wonder_pyramids.png used on input line 896.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 885--886
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 896--897
 [][] 
  []
 
@@ -1790,10 +1790,10 @@ File: ./png/doe_wonder_temple_of_mars.png Graphic file (type png)
 
 <use ./png/doe_wonder_temple_of_mars.png>
 Package pdftex.def Info: ./png/doe_wonder_temple_of_mars.png used on input line
- 896.
+ 907.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 896--897
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 907--908
 [][] 
  []
 
@@ -1802,10 +1802,10 @@ File: ./png/doe_wonder_tomb_of_midas.png Graphic file (type png)
 
 <use ./png/doe_wonder_tomb_of_midas.png>
 Package pdftex.def Info: ./png/doe_wonder_tomb_of_midas.png used on input line 
-909.
+920.
 (pdftex.def)             Requested size: 65.34366pt x 65.34366pt.
 
-Overfull \hbox (23.51575pt too wide) in paragraph at lines 909--910
+Overfull \hbox (23.51575pt too wide) in paragraph at lines 920--921
 [][] 
  []
 
@@ -1813,28 +1813,28 @@ Overfull \hbox (23.51575pt too wide) in paragraph at lines 909--910
 building_temple.png> <./png/doe_building_walls.png> <./png/doe_building_worksho
 p.png> <./png/doe_wonder_colossus.png> <./png/doe_wonder_great_library.png> <./
 png/doe_wonder_great_lighthouse.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 920.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 931.
  [16 <./png/doe_wonder_great_wall.png> <./png/doe_wonder_hanging_gardens.png> <
 ./png/doe_wonder_oracle.png> <./png/doe_wonder_pyramids.png> <./png/doe_wonder_
 temple_of_mars.png> <./png/doe_wonder_tomb_of_midas.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 920.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 931.
  (./rules.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 920.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 920.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 931.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 931.
 Package rerunfilecheck Info: File `rules.out' has not changed.
 (rerunfilecheck)             Checksum: E4BD132201CE9AF04BF761B339A5F129;1702.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 920.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 931.
  ) 
 Here is how much of TeX's memory you used:
- 26448 strings out of 494953
- 550060 string characters out of 6180978
- 839293 words of memory out of 5000000
+ 26446 strings out of 494953
+ 550044 string characters out of 6180978
+ 839295 words of memory out of 5000000
  29083 multiletter control sequences out of 15000+600000
- 18883 words of font info for 81 fonts, out of 8000000 for 9000
+ 18832 words of font info for 80 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  62i,10n,56p,408b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texlive/texmf-dist
@@ -1843,7 +1843,7 @@ Here is how much of TeX's memory you used:
 /public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on rules.pdf (17 pages, 1113492 bytes).
+Output written on rules.pdf (17 pages, 1116693 bytes).
 PDF statistics:
  407 PDF objects out of 1000 (max. 8388607)
  271 compressed objects within 3 object streams

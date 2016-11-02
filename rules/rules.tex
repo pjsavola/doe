@@ -101,7 +101,8 @@
   \end{figure}
 
   Then each player places resource markers to 0 in all 6 resource tracks
-  (food, production, wealth, money, science, military experience).
+  (food, production, wealth, money, science, military experience) and then
+  gets the exploration bonus from his initial tiles (see Explore section).
   Place all 9 huts on town upkeep track and move the leftmost of them
   to the middle of your three starting tiles.
   Place the 7 warriors on military upkeep track
@@ -222,8 +223,9 @@
       (see Combat section)
     \item Raid an adjacent rival town (see Raid section)
     \item If the stack contains a settler, exchange it for a town of size 1
-      in an adjacent empty corner, which must have 3 adjacent terrain tiles
-      and at least 1 of them must be non-ocean tile. Place the settler back
+      in an adjacent empty corner, which must have 3 adjacent explored
+      terrain tiles and at least 1 of them must be non-ocean tile. Place the
+      settler back
       to the player board and take the leftmost hut from town upkeep track.
     \end{itemize}
 
@@ -235,7 +237,7 @@
       \begin{minipage}[c]{0.4\textwidth}
         \captionsetup{labelformat=empty, justification=justified, singlelinecheck=false}
         \caption{Example: It is not allowed to found new towns on the edge
-          of the map or in middle of 3 ocean tiles.}
+          of the map, in middle of 3 ocean tiles or next to an unexplored tile.}
       \end{minipage}\hfill
       \label{fig:example_new_town}
     \end{figure}
@@ -254,7 +256,16 @@
   \subsection{Explore}{
     Choose any unexplored tile which is adjacent to any of your warriors and
     turn it around. Then you immediately get the exploration bonus, which is
-    printed on the tile.
+    printed on the tile:
+    \begin{itemize}
+    \item Grassland: 1 production, 1 money
+    \item Plains: 1 food, 1 production, 1 science
+    \item Forest: 1 food, 1 money, 1 science
+    \item Hills: 1 food, 1 production, 1 money
+    \item Mountains: 2 food, 1 science
+    \item Ocean: 1 food, 1 production
+    \item Desert: 2 food, 1 money, 1 science
+    \end{itemize}
   }\label{subsec:explore}
   \subsection{Build}{
     Pick one of the city improvements or wonders and pay its cost in production
@@ -488,7 +499,7 @@
     \end{minipage}\hfill
     \begin{minipage}[c]{0.6\textwidth}
       \captionsetup{labelformat=empty, justification=justified, singlelinecheck=false}
-      \caption{During harvest, you may convert cubes from grassland or plains to 3 wealth each. (1)}
+      \caption{During harvest, you may convert cubes from grassland or plains to 3 wealth each. (2)}
     \end{minipage}\hfill
     \label{fig:tech_wheel}
   \end{figure}
